@@ -14,8 +14,11 @@ socket and threading modules
 
 # Installation
 Clone the repository:
+
 git clone https://github.com/antianalysis/UDPFlood.git
+
 Run the script:
+
 python KiRaFlood.py
 
 
