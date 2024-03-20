@@ -6,10 +6,15 @@ A simple UDP flood tool for testing purposes. Use it responsibly and with permis
 
 # Features
 UDP flood attack
+
 Multi-threaded for increased performance
+
 Customizable packet size and number of packets
+
 Prerequisites
+
 Python 3.x
+
 socket and threading modules
 
 # Installation
@@ -24,7 +29,9 @@ python KiRaFlood.py
 
 # Usage
 Enter the victim's IP address and port number.
+
 Choose whether to use UDP or TCP.
+
 Specify the number of packets per connection and the number of threads.
 
 
@@ -33,4 +40,5 @@ This tool is for educational purposes only. Do not use it for malicious purposes
 
 # Credits
 Created by ./GreatKiRa HaCKeR
+
 iG : @DD00
